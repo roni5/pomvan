@@ -1,6 +1,6 @@
 This directory structure contains the settings and configuration files specific
 to your site or sites and is an integral part of multisite configuration.
-
+hello:wq
 The sites/all/ subdirectory structure should be used to place your custom and
 downloaded extensions including modules, themes, and third party libraries.
 
